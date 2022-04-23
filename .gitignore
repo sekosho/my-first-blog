@@ -6,3 +6,4 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
+*_db_bk.json
